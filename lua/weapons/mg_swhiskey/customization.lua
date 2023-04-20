@@ -24,18 +24,36 @@ SWEP.Customization = {
     {"att_perk", "att_vm_pi_cpapa_soh", "att_perk_fmj", "att_perk_ricochet", "att_perk_fastswap"},
 
     {"att_receiver"},
+	
+    {"att_trigger_swhiskey", "attachment_vm_pi_swhiskey_hvytrigg", "attachment_vm_pi_swhiskey_hairtrigg"},
+	
+	{"att_ammo", "attachment_vm_pi_cpapa_loader_snake"},
+	
+    {"att_pistolgrip", "attachment_vm_pi_swhiskey_pistgriptac", "attachment_vm_pi_swhiskey_pistgripass", "attachment_vm_pi_swhiskey_pistgripstdy",},
 
-    {"attachment_vm_pi_cpapa_mag", "attachment_vm_pi_cpapa_loader_snake"},
+    {"attachment_vm_pi_swhiskey_mag","attachment_vm_pi_swhiskey_lightmag","attachment_vm_pi_swhiskey_hvymag", },
     
-    {"att_stock", "att_vm_pi_cpapa_stock01", "att_vm_pi_cpapa_stock02"},
+    {"att_muzzle", "att_vm_flashhider01_pstl", "att_vm_compensator01_pstl", "att_vm_muzzlebrake01_pstl", "att_vm_oil_filter_suppressor","wp_atlas7",   "wp_awc762",   "wp_crs",  "wp_jcomp_g2",
+    "wp_k556",     "wp_qdc",      "wp_red",  "wp_sio",
+    "wp_ss338",    "wp_wave",     "wp_ttfx",  "wp_ttfx_1",
+    "wp_ab",       "wp_ad9",      "wp_cs",    "wp_dg33",
+	"wp_g4",       "wp_lwc",      "wp_pg3"},
 
-    {"att_muzzle", "att_vm_flashhider01_pstl", "att_vm_compensator01_pstl", "att_vm_muzzlebrake01_pstl", "att_vm_oil_filter_suppressor"},
+    {"att_sight", "att_vm_minireddot01", "att_vm_minireddot02", "att_vm_minireddot03",
+	"wp_510c",       "wp_6x",       "wp_512gd",       "wp_mw2_mini06",
+	"wp_558",       "wp_acog",       "wp_553",       "wp_mw2_szbo",
+	"wp_am4",       "wp_ars",       "wp_aems",       "wp_t1_lmo",
+	"wp_lqd",       "wp_pbps",    
+	"wp_pkas",       "wp_vk",      
+	"wp_r1x",        "wp_tps330",
+	"wp_r4t",       "wp_rg3",       "wp_cw_snappoint",       "wp_x8_mr45",
+	"wp_r8t",       "wp_x3",       "wp_fc1",    
+	"wp_sf2",       "wp_x5",       "wp_lco",      
+	"wp_uh1",       "wp_mro_8",  "wp_acog_rm45"},
 
-    {"att_sight", "att_vm_minireddot01", "att_vm_minireddot02", "att_vm_minireddot03"},
+    {"att_vm_pi_swhiskey_barrel", "att_vm_pi_swhiskey_barrel_long", "att_vm_pi_swhiskey_barhvylong", "att_vm_pi_swhiskey_barmini", "att_vm_pi_swhiskey_barlight"},
 
-    {"att_vm_pi_swhiskey_barrel", "att_vm_pi_cpapa_barrel_long", "att_vm_pi_cpapa_barrel_short", "att_vm_pi_cpapa_barrel02"},
-
-    {"att_laser", "att_vm_pi_cpapa_laser01", "att_vm_pi_cpapa_laser02", "att_vm_pi_cpapa_laser03"}
+    {"att_laser", "att_vm_pi_swhiskey_laser01", "att_vm_pi_swhiskey_laser02", "att_vm_pi_swhiskey_laser03"}
 }
 
 --NECESSARY: it loads custom attachments from other authors
