@@ -51,7 +51,7 @@ SWEP.Customization = {
 	"wp_sf2",       "wp_x5",       "wp_lco",      
 	"wp_uh1",       "wp_mro_8",  "wp_acog_rm45"},
 
-    {"att_vm_pi_swhiskey_barrel", "att_vm_pi_swhiskey_barrel_long", "att_vm_pi_swhiskey_barhvylong", "att_vm_pi_swhiskey_barmini", "att_vm_pi_swhiskey_barlight"},
+    {"att_vm_pi_swhiskey_barrel", "att_vm_pi_swhiskey_barrel_long", "att_vm_pi_swhiskey_barhvylong", "att_vm_pi_swhiskey_barmini", "att_vm_pi_swhiskey_barlight", "att_vm_pi_swhiskey_barshort"},
 
     {"att_laser", "att_vm_pi_swhiskey_laser01", "att_vm_pi_swhiskey_laser02", "att_vm_pi_swhiskey_laser03"}
 }

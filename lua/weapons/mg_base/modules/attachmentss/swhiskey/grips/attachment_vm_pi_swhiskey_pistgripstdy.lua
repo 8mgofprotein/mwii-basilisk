@@ -1,7 +1,7 @@
 ATTACHMENT.Base = "att_pistolgrip"
-ATTACHMENT.Name = "Steady Grip"
+ATTACHMENT.Name = "Bryson Duel Grip"
 ATTACHMENT.Model = Model("models/kyo/attachment_vm_pi_swhiskey_gripstdy.mdl")
-ATTACHMENT.Icon = Material("models/kyo/icon/p220/icon_aimgrip.vmt")
+ATTACHMENT.Icon = Material("models/kyo/icon/swhiskey/icon_gripstdy.vmt")
 
 ATTACHMENT.Bodygroups = {
     ["pgrip"] = 1

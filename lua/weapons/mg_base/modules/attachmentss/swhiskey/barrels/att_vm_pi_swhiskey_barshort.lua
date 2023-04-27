@@ -1,7 +1,7 @@
 ATTACHMENT.Base = "att_barrel"
-ATTACHMENT.Name = "Bryson Snubby"
-ATTACHMENT.Model = Model("models/kyo/attachment_vm_pi_swhiskey_barmini.mdl")
-ATTACHMENT.Icon = Material("models/kyo/icon/swhiskey/icon_barmini.vmt")
+ATTACHMENT.Name = "FTAC Fang Ported"
+ATTACHMENT.Model = Model("models/kyo/attachment_vm_pi_swhiskey_barshort.mdl")
+ATTACHMENT.Icon = Material("models/kyo/icon/swhiskey/icon_barshort.vmt")
 local BaseClass = GetAttachmentBaseClass(ATTACHMENT.Base)
 function ATTACHMENT:Stats(weapon)
     BaseClass.Stats(self, weapon)

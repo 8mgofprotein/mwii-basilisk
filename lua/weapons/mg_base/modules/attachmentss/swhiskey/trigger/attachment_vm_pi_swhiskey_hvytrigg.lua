@@ -1,7 +1,7 @@
 ATTACHMENT.Base = "att_trigger_swhiskey"
-ATTACHMENT.Name = "Heavyy Trigger"
+ATTACHMENT.Name = "Basilisk HT-7"
 ATTACHMENT.Model = Model("models/kyo/attachment_vm_pi_swhiskey_trighvy.mdl")
-ATTACHMENT.Icon = Material("models/kyo/icon/p220/icon_gripass.vmt")
+ATTACHMENT.Icon = Material("models/kyo/icon/swhiskey/icon_hvytrig.vmt")
 ATTACHMENT.Bodygroups = {
     ["trigger"] = 1
 }

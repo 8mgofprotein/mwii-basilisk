@@ -10,8 +10,8 @@ require("mw_utils")
 mw_utils.LoadInjectors(SWEP)  
 
 if CLIENT then
-    killicon.Add( "mg_357", "VGUI/entities/mg_357", Color(255, 0, 0, 255))
-    SWEP.WepSelectIcon = surface.GetTextureID("VGUI/spawnicons/icon_cac_weapon_pi_cpapa")
+    killicon.Add( "mg_swhiskey", "VGUI/entities/mg_swhiskey", Color(255, 0, 0, 255))
+    SWEP.WepSelectIcon = surface.GetTextureID("VGUI/entities/mg_swhiskey_icon")
 end
 
 SWEP.Base = "mg_base"

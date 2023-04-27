@@ -1,7 +1,7 @@
 ATTACHMENT.Base = "att_barrel"
-ATTACHMENT.Name = "Heavy Long"
+ATTACHMENT.Name = "FTAC Carnivora 7'"
 ATTACHMENT.Model = Model("models/kyo/attachment_vm_pi_swhiskey_barhvlong.mdl")
-ATTACHMENT.Icon = Material("viper/mw/attachments/icons/cpapa/icon_attachment_pi_cpapa_barrel_long.vmt")
+ATTACHMENT.Icon = Material("models/kyo/icon/swhiskey/icon_barhvylong.vmt")
 local BaseClass = GetAttachmentBaseClass(ATTACHMENT.Base)
 function ATTACHMENT:Stats(weapon)
     BaseClass.Stats(self, weapon)

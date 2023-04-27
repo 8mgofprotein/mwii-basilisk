@@ -122,22 +122,7 @@ SWEP.Animations = {
             {Time = 2.7, Callback = function(self) self:DoSound(Sound("MW19_357.Reload_End")) end}
         }
     },
-	["Reload5"] = {
-        Sequences = {"reload"},
-        Length = 3,
-        Fps = 30,
-        MagLength = 2.2,
-        NextSequence = "Idle",
-        Events = {
-            {Time = 0.066, Callback = function(self) self:DoSound(Sound("MW19_357.Reload_Start")) end},
-            {Time = 0.36, Callback = function(self) self:DoSound(Sound("MW19_357.Open")) end},
-            {Time = 0.63, Callback = function(self) self:DoSound(Sound("MW19_357.Ejectorrod")) end},
-            {Time = 0.73, Callback = function(self) self:DoSound(Sound("MW19_357.Shelleject")) end},
-            {Time = 1.96, Callback = function(self) self:DoSound(Sound("MW19_357.Speedloader")) end},
-            {Time = 2.56, Callback = function(self) self:DoSound(Sound("MW19_357.Close")) end},
-            {Time = 2.7, Callback = function(self) self:DoSound(Sound("MW19_357.Reload_End")) end}
-        }
-    },
+
     ["Reload_Fast"] = {
         Sequences = {"reload_fast"},
         Length = 2,

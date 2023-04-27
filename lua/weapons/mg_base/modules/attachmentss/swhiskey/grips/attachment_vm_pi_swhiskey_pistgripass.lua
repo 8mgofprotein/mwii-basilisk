@@ -1,7 +1,7 @@
 ATTACHMENT.Base = "att_pistolgrip"
-ATTACHMENT.Name = "Ass Grip"
+ATTACHMENT.Name = "Bryson WD-85 Grip"
 ATTACHMENT.Model = Model("models/kyo/attachment_vm_pi_swhiskey_gripass.mdl")
-ATTACHMENT.Icon = Material("models/kyo/icon/p220/icon_gripass.vmt")
+ATTACHMENT.Icon = Material("models/kyo/icon/swhiskey/icon_gripass.vmt")
 ATTACHMENT.Bodygroups = {
     ["pgrip"] = 1
 }
